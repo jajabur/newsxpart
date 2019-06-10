@@ -1,6 +1,6 @@
 /*!
 Theme Name: newsxpart
-Theme URI: http://underscores.me/
+Theme URI: http://xpartsoft.com/
 Author: kamrul Islam
 Author URI: http://www.xpartsoft.com/theme/newsxpart
 Description: This is a WordPress Newspaper Theme
@@ -13,12 +13,6 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 
-newsxpart is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
-Underscores is distributed under the terms of the GNU GPL v2 or later.
-
-Normalizing styles have been helped along thanks to the fine work of
-Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
-*/
 
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
@@ -44,11 +38,6 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 --------------------------------------------------------------*/
 @import "variables-site/variables-site";
 @import "mixins/mixins-master";
-
-/*--------------------------------------------------------------
-# Normalize
---------------------------------------------------------------*/
-@import "normalize";
 
 /*--------------------------------------------------------------
 # Typography
